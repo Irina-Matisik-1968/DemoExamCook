@@ -1,0 +1,47 @@
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe.config
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\bin\Debug\WinFormCook.pdb
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.AssemblyReference.cache
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Properties.Resources.resources
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.GenerateResource.cache
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.CoreCompileInputs.cache
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.exe
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.pdb
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Authorizations.resources
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.ListProduct.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe.config
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.pdb
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.AssemblyReference.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Properties.Resources.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.ListProduct.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Authorizations.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.GenerateResource.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.CoreCompileInputs.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.exe
+E:\Занятия 2022-2023\МДК 01.01\4 курс\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.pdb
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csprojAssemblyReference.cache
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Properties.Resources.resources
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Pattern.resources
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.ListProduct.resources
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Authorizations.resources
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.GenerateResource.cache
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.CoreCompileInputs.cache
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.exe
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.pdb
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe.config
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe
+C:\Матысик И.А\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.pdb
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe.config
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.exe
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\bin\Debug\WinFormCook.pdb
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.AssemblyReference.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Properties.Resources.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Pattern.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.ListProduct.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Authorizations.resources
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.GenerateResource.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.csproj.CoreCompileInputs.cache
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.exe
+E:\Занятия 2022-2023\МДК 01.01\4 курс\Подготовка к ДЭ. Обучение и тренировка\№3. Авторизация разная\WinFormCook\WinFormCook\obj\Debug\WinFormCook.pdb
+C:\Users\mama\Desktop\WinFormCook\WinFormCook\obj\Debug\WinFormCook.Pattern.resources
